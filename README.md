@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![giphy-1_orig](https://github.com/user-attachments/assets/8f4c33db-b47d-48e3-a206-dad08ace3350)
+
 **abhisheksalaria04/abhisheksalaria04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
